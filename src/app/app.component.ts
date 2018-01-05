@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   providers: [ProductService]
 })
 export class AppComponent {
-  title: string = 'Angular: Getting Started';
+  title: string = 'Acme Product Management';
 }
